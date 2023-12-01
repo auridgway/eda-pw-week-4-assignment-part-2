@@ -1,0 +1,44 @@
+header {
+background-color: black;
+color: white;
+border: 50px;
+padding: 20px;
+background-clip: padding-box;
+}
+
+.info{
+    text-align: center;
+    border-width: 3px;
+    border-color: blanchedalmond;
+    border-style: outset;
+    border-radius: 5px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 20px;
+    background-image: url(https://media.tenor.com/q_OdlggtvpoAAAAi/animated-fire.gif);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+}
+.info h2{
+    background-image: radial-gradient(circle, black,blanchedalmond);
+    /* not a color but an image I was going for a theme while making this. let me know if you'd like a color I can make one too*/
+    /* background-color: blanchedalmond; */
+}
+.info h3{
+    background-image: radial-gradient(circle, black,blanchedalmond);
+}
+.info img{
+    align-content: center;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.flames img{
+    
+}
+
+
+.mocha{
+    position: absolute;
+}
